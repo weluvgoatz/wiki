@@ -8,7 +8,7 @@ SuperTux currently is limited to two worlds, with two more coming in the future.
 
 **Icy Island**
 
-The following levels are part of the Icy Island. There are 27 gameplay levels, marked in bold, with 3 cutscenes, marked in italics. Cutscenes dependent on a level have their parent level's name prefixing them.
+The following levels are part of the Icy Island. There are 27 gameplay levels, marked in bold, with 3 cutscenes, marked in italics. Cutscenes dependent on a level have their parent level's name prefixing them. Hidden levels are also marked accordingly, and the level before them is the one that has the secret path to them.
 
 | Name | Description | Difficulty | Contributor |
 | --- | --- | --- | --- |
@@ -35,7 +35,7 @@ The following levels are part of the Icy Island. There are 27 gameplay levels, m
 | *A Yeti in the Distance* ||||
 | **A Path in the Clouds** ||||
 | **Icy Valley** ||||
-| **Between Two Glaciers** ||||
+| **Hidden Level: Between Two Glaciers** ||||
 | **Over the Frozen Bridge** ||||
 | **The Shattered Bridge** ||||
 | **The Castle of Nolok** ||||
@@ -46,3 +46,38 @@ The following levels are part of the Icy Island. There are 27 gameplay levels, m
 -----
 
 **Rooted Forest**
+
+The following levels are part of the Rooted Forest. There are 27 gameplay levels, marked in bold, with 3 cutscenes, marked in italics. Cutscenes dependent on a level have their parent level's name prefixing them. Hidden levels are also marked accordingly, and the level before them is the one that has the secret path to them.
+
+| Name | Description | Difficulty | Contributor |
+| --- | --- | --- | --- |
+| *A New Location* ||||
+| **Welcome to the Forest** ||||
+| **Walking Leaves** ||||
+| **Beside the Bushes** ||||
+| **Find the Bigger Fish!** ||||
+| **Tux the Builder** ||||
+| **A Mouldy Grotto** ||||
+| **Penguins Don't Grow on Trees** ||||
+| **Bouncy Coils** ||||
+| **Like a Leaf in the Wind** ||||
+| **Owls' Skydive Commando** ||||
+| **Wooden Roots** ||||
+| **The Owls Again...** ||||
+| **Crumbling Path** ||||
+| **Hidden Level: Ancient Ruins** ||||
+| **Shocking** ||||
+| **Going Underground** ||||
+| **Through the Dark** ||||
+| *What is Happening?* ||||
+| **Ghostly Misery** ||||
+| **Tux's Own Horror Show** ||||
+| **Darkness Awaits** ||||
+| **The Forest is Rotting** ||||
+| **Ghouls' Lair** ||||
+| **I Spy With My Little Eye** ||||
+| **Tower of Ghosts** ||||
+| *Tower of Ghosts: Tower Cutscene* ||||
+| **Lost Village** ||||
+| **Ghosttree's Challenges** ||||
+| **Bye Bye Forest** ||||
