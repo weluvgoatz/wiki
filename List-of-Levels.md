@@ -12,7 +12,7 @@ The following levels are part of the Icy Island. There are 27 gameplay levels, m
 
 | Name | Description | Contributors |
 | --- | --- | --- |
-| *Picnic with Penny* || Carsten Wirtz |
+| *Picnic with Penny* | Penny and Tux are having a nice picnic, but Tux is knocked out and Penny is kidnapped by Nolok. Tux finds a letter from Nolok telling him that Penny is in his castle. | Carsten Wirtz |
 | **Welcome to Antarctica** || Carsten Wirtz |
 | **The Journey Begins** || Carsten Wirtz |
 | **The Somewhat Smaller Bath** || Carsten Wirtz |
