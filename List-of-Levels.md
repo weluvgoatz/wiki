@@ -10,38 +10,38 @@ SuperTux currently is limited to two worlds, with two more coming in the future.
 
 The following levels are part of the Icy Island. There are 27 gameplay levels, marked in bold, with 3 cutscenes, marked in italics. Cutscenes dependent on a level have their parent level's name prefixing them. Hidden levels are also marked accordingly, and the level before them is the one that has the secret path to them.
 
-| Name | Description | Difficulty | Contributor |
-| --- | --- | --- | --- |
-| *Picnic with Penny* ||||
-| **Welcome to Antarctica** ||||
-| **The Journey Begins** ||||
-| **The Somewhat Smaller Bath** ||||
-| **A Fork in the Road** ||||
-| **Oh No! More Snowballs!** ||||
-| **Via Nostalgica** ||||
-| **The Frosted Fields** ||||
-| **Stone Cold** ||||
-| **23rd Airborne** ||||
-| **Above the Arctic Skies** ||||
-| **Night Chill** ||||
-| **Into the Stars** ||||
-| **Entrance to the Cave** ||||
-| **Under the Ice** ||||
-| **Living in a Fridge** ||||
-| **...Or Is It Just Me?** ||||
-| **Miyamoto Monument** ||||
-| **Ice in the Hole** ||||
-| **End of the Tunnel** ||||
-| *A Yeti in the Distance* ||||
-| **A Path in the Clouds** ||||
-| **Icy Valley** ||||
-| **Hidden Level: Between Two Glaciers** ||||
-| **Over the Frozen Bridge** ||||
-| **The Shattered Bridge** ||||
-| **The Castle of Nolok** ||||
-| *The Castle of Nolok: Empty Throne Room* ||||
-| **No More Mr. Ice Guy!** ||||
-| **The Crystal Mine** ||||
+| Name | Description | Contributors |
+| --- | --- | --- |
+| *Picnic with Penny* || Carsten Wirtz |
+| **Welcome to Antarctica** || Carsten Wirtz |
+| **The Journey Begins** || Carsten Wirtz |
+| **The Somewhat Smaller Bath** || Carsten Wirtz |
+| **A Fork in the Road** || Carsten Wirtz |
+| **Oh No! More Snowballs!** || Carsten Wirtz |
+| **Via Nostalgica** || Carsten Wirtz |
+| **The Frosted Fields** || Carsten Wirtz |
+| **Stone Cold** || Carsten Wirtz |
+| **23rd Airborne** || Carsten Wirtz |
+| **Above the Arctic Skies** || Carsten Wirtz |
+| **Night Chill** || Carsten Wirtz |
+| **Into the Stars** || Carsten Wirtz |
+| **Entrance to the Cave** || Carsten Wirtz |
+| **Under the Ice** || Carsten Wirtz |
+| **Living in a Fridge** || Carsten Wirtz |
+| **...Or Is It Just Me?** || Carsten Wirtz |
+| **Miyamoto Monument** || Carsten Wirtz |
+| **Ice in the Hole** || Carsten Wirtz |
+| **End of the Tunnel** || Carsten Wirtz |
+| *A Yeti in the Distance* || Carsten Wirtz |
+| **A Path in the Clouds** || Carsten Wirtz |
+| **Icy Valley** || Carsten Wirtz |
+| **Hidden Level: Between Two Glaciers** || Carsten Wirtz |
+| **Over the Frozen Bridge** || Carsten Wirtz |
+| **The Shattered Bridge** || Carsten Wirtz |
+| **The Castle of Nolok** || Carsten Wirtz |
+| *The Castle of Nolok: Empty Throne Room* || Carsten Wirtz |
+| **No More Mr. Ice Guy!** || Carsten Wirtz |
+| **The Crystal Mine** || Carsten Wirtz |
 
 -----
 
@@ -49,35 +49,35 @@ The following levels are part of the Icy Island. There are 27 gameplay levels, m
 
 The following levels are part of the Rooted Forest. There are 27 gameplay levels, marked in bold, with 3 cutscenes, marked in italics. Cutscenes dependent on a level have their parent level's name prefixing them. Hidden levels are also marked accordingly, and the level before them is the one that has the secret path to them.
 
-| Name | Description | Difficulty | Contributor |
-| --- | --- | --- | --- |
-| *A New Location* ||||
-| **Welcome to the Forest** ||||
-| **Walking Leaves** ||||
-| **Beside the Bushes** ||||
-| **Find the Bigger Fish!** ||||
-| **Tux the Builder** ||||
-| **A Mouldy Grotto** ||||
-| **Penguins Don't Grow on Trees** ||||
-| **Bouncy Coils** ||||
-| **Like a Leaf in the Wind** ||||
-| **Owls' Skydive Commando** ||||
-| **Wooden Roots** ||||
-| **The Owls Again...** ||||
-| **Crumbling Path** ||||
-| **Hidden Level: Ancient Ruins** ||||
-| **Shocking** ||||
-| **Going Underground** ||||
-| **Through the Dark** ||||
-| *What is Happening?* ||||
-| **Ghostly Misery** ||||
-| **Tux's Own Horror Show** ||||
-| **Darkness Awaits** ||||
-| **The Forest is Rotting** ||||
-| **Ghouls' Lair** ||||
-| **I Spy With My Little Eye** ||||
-| **Tower of Ghosts** ||||
-| *Tower of Ghosts: Tower Cutscene* ||||
-| **Lost Village** ||||
-| **Ghosttree's Challenges** ||||
-| **Bye Bye Forest** ||||
+| Name | Description | Contributors |
+| --- | --- | --- |
+| *A New Location* || Carsten Wirtz |
+| **Welcome to the Forest** || Carsten Wirtz |
+| **Walking Leaves** || Carsten Wirtz |
+| **Beside the Bushes** || Carsten Wirtz |
+| **Find the Bigger Fish!** || Carsten Wirtz |
+| **Tux the Builder** || Carsten Wirtz |
+| **A Mouldy Grotto** || Carsten Wirtz |
+| **Penguins Don't Grow on Trees** || Carsten Wirtz |
+| **Bouncy Coils** || Carsten Wirtz |
+| **Like a Leaf in the Wind** || Carsten Wirtz |
+| **Owls' Skydive Commando** || Carsten Wirtz |
+| **Wooden Roots** || Carsten Wirtz |
+| **The Owls Again...** || Carsten Wirtz |
+| **Crumbling Path** || Carsten Wirtz |
+| **Hidden Level: Ancient Ruins** || Carsten Wirtz |
+| **Shocking** || Carsten Wirtz |
+| **Going Underground** || Carsten Wirtz |
+| **Through the Dark** || Carsten Wirtz |
+| *What is Happening?* || Carsten Wirtz |
+| **Ghostly Misery** || Serano |
+| **Tux's Own Horror Show** || Serano |
+| **Darkness Awaits** || Serano |
+| **The Forest is Rotting** || Daniel Ward |
+| **Ghouls' Lair** || Serano |
+| **I Spy With My Little Eye** || Daniel Ward |
+| **Tower of Ghosts** || Daniel Ward |
+| *Tower of Ghosts: Tower Cutscene* || Serano |
+| **Lost Village** || Serano |
+| **Ghosttree's Challenges** || Serano |
+| **Bye Bye Forest** || Serano |
